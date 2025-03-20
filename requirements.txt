@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+langchain
+faiss-cpu
+langchain-community
+langchain-ollama
+ollama
