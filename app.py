@@ -5,7 +5,6 @@ from llm_util import generate_response
 
 st.set_page_config(page_title="Chat with Research Papers", layout="centered")
 
-# Updated CSS with proper right alignment for user messages
 st.markdown(
     """
     <style>
